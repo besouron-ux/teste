@@ -1,5 +1,5 @@
 # Checklist aplicativo AcheMed
-# teste para verificar se o check-in da teleconsulta é corretamente liberado para atendimentos via convênio (após autorização) e particular (após confirmação de pagamento).
+# teste para verificar se o check-in da teleconsulta é corretamente liberado para atendimentos via convênio (após autorização) e particular (após confirmação de pagamento)..
 
 # 01/10/2024
 # Usuário Keren Medeiros plano economico

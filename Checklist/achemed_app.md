@@ -1,5 +1,5 @@
 # 01/10/2024
-# Usuário Teste
+# Usuário Teste.
 - [x] botao agendar
 - [x] tipos de prioridade
 - [x] tipos de atendimento (locais de atendimento)
@@ -11,4 +11,4 @@
 - [] tipos de consulta : teleconsulta
 - [] tela pix 
 - [] tela de confirmação de agendamento
-- [] check-in liberado automatico (verde)
+- [] check-in liberado automatico (verde) autorizado
