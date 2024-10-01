@@ -27,4 +27,4 @@
 - [x] tipos de consulta : teleconsulta
 - [x] tela de confirmação de agendamento
 - [x] check-in com pendência
-- [x] check-in liberado por atendente 
+- [x] check-in liberado por atendente
